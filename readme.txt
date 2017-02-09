@@ -1,4 +1,4 @@
-ÄãºÃ£¡
-»¶Ó­Ê¹ÓÃGIT£¡
+ni hao!
+Welcome to use the git!
 hello,world!
 
